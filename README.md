@@ -1,2 +1,2 @@
 # Upikk_TwitchChannelPoints
-This script can be used to reward players that have points on your twitch channel
+This script allows you to reward players who have earned points on your Twitch channel.
